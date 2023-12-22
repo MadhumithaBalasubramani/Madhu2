@@ -1,0 +1,106 @@
+BEGIN:VCALENDAR
+METHOD:REQUEST
+PRODID:Microsoft Exchange Server 2010
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID:India Standard Time
+BEGIN:STANDARD
+DTSTART:16010101T000000
+TZOFFSETFROM:+0530
+TZOFFSETTO:+0530
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:16010101T000000
+TZOFFSETFROM:+0530
+TZOFFSETTO:+0530
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+ORGANIZER;CN=Sweta Mishra:mailto:Sweta.Mishra@kwglobal.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=madhubalu2
+ 082001@gmail.com:mailto:madhubalu2082001@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Priyadhars
+ hini AS:mailto:Priyadharshini.AS@kwglobal.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Jayan Varg
+ hese:mailto:Jayan.varghese@kwglobal.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Rajan Taha
+ lani:mailto:Rajan.Tahalani@kwglobal.com
+ATTACH:CID:FB7575E1FF18314D8F6141FAFF9A05A7@namprd05.prod.outlook.com
+ATTACH:CID:DF9C0AA99EBC6E49BCEEDFA40CDDC4F3@namprd05.prod.outlook.com
+DESCRIPTION;LANGUAGE=en-US:\n\nDear Madhumitha\,\n\nAs discussed your inter
+ view is scheduled on 01-Sep-23 at 02.30 pm (IST)\n\nPlease find below the 
+ Microsoft Teams meeting details (Audio + Video interview)\n\nPlease ensure
+  that you have the following things ready with you prior to the interview
+ …\n\na)      Uninterrupted access to the internet.\n\nb)      Formal dre
+ ss code is preferred.\n\nc)      A Desktop / laptop rebooted prior to the 
+ start of the call so that there are no performance issues.\n\nd)      Log 
+ on to Microsoft Teams using browser. Dial in to the meeting 5 minutes prio
+ r so that Microsoft Teams set up is completed before we start the intervie
+ w.\n\ne)      Ensure your camera on the Desktop / Laptop is working correc
+ tly.\n\nf)      A good audio connection so that your voice will not crack 
+ / has echo and Interview panels can hear you clearly.  Earphones or Headph
+ ones are preferred.\n\n\n\n--Warm regards\, Sweta Mishra\n\n <https://www.
+ kwglobal.com/>\n\nSweta Mishra - Human Resource\nMarwah Centre\, Marwah Ma
+ rg\, Marol\, Andheri East\, Mumbai - 400072\nT.+02240985200/m.08390895704\
+ n| www.kwglobal.com<http://www.kwglobal.com/> | @KwGlobalLtd<https://twitt
+ er.com/KwGlobalLtd>\nhttps://www.kwglobal.com/careers\nhttps://www.linkedi
+ n.com/company/kwglobal/jobs/\n\n\n\n______________________________________
+ __________________________________________\nMicrosoft Teams meeting\nJoin 
+ on your computer\, mobile app or room device\nClick here to join the meeti
+ ng<https://teams.microsoft.com/l/meetup-join/19%3ameeting_NjczYmE1YWYtNjY2
+ Ny00YzdkLWExOGItNWVmMDg5N2U2MTk4%40thread.v2/0?context=%7b%22Tid%22%3a%227
+ 42bc209-0ce8-4cf8-b2e2-32d4d1c2d9ea%22%2c%22Oid%22%3a%222a3cb7ac-7432-490e
+ -8f21-b3dc295ebdb8%22%7d>\nMeeting ID: 252 267 884 396\nPasscode: 7Lr5eR\n
+ Download Teams<https://www.microsoft.com/en-us/microsoft-teams/download-ap
+ p> | Join on the web<https://www.microsoft.com/microsoft-teams/join-a-meet
+ ing>\nLearn More<https://aka.ms/JoinTeamsMeeting> | Meeting options<https:
+ //teams.microsoft.com/meetingOptions/?organizerId=2a3cb7ac-7432-490e-8f21-
+ b3dc295ebdb8&tenantId=742bc209-0ce8-4cf8-b2e2-32d4d1c2d9ea&threadId=19_mee
+ ting_NjczYmE1YWYtNjY2Ny00YzdkLWExOGItNWVmMDg5N2U2MTk4@thread.v2&messageId=
+ 0&language=en-US>\n_______________________________________________________
+ _________________________\n\n\n
+UID:040000008200E00074C5B7101A82E00800000000B0592C0DD7DCD901000000000000000
+ 0100000003A944C9221296846995A7FA2A36DBFED
+SUMMARY;LANGUAGE=en-US:Interview Schedule | Editorial Services | Madhumitha
+  | KGL India
+DTSTART;TZID=India Standard Time:20230901T143000
+DTEND;TZID=India Standard Time:20230901T150000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20230901T075246Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION;LANGUAGE=en-US:Microsoft Teams Meeting
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-OWNERAPPTID:1346476007
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-SKYPETEAMSMEETINGURL:https://teams.microsoft.com/l/meetup-join/
+ 19%3ameeting_NjczYmE1YWYtNjY2Ny00YzdkLWExOGItNWVmMDg5N2U2MTk4%40thread.v2/
+ 0?context=%7b%22Tid%22%3a%22742bc209-0ce8-4cf8-b2e2-32d4d1c2d9ea%22%2c%22O
+ id%22%3a%222a3cb7ac-7432-490e-8f21-b3dc295ebdb8%22%7d
+X-MICROSOFT-SCHEDULINGSERVICEUPDATEURL:https://api.scheduler.teams.microsof
+ t.com/teams/742bc209-0ce8-4cf8-b2e2-32d4d1c2d9ea/2a3cb7ac-7432-490e-8f21-b
+ 3dc295ebdb8/19_meeting_NjczYmE1YWYtNjY2Ny00YzdkLWExOGItNWVmMDg5N2U2MTk4@th
+ read.v2/0
+X-MICROSOFT-SKYPETEAMSPROPERTIES:{"cid":"19:meeting_NjczYmE1YWYtNjY2Ny00Yzd
+ kLWExOGItNWVmMDg5N2U2MTk4@thread.v2"\,"private":true\,"type":0\,"mid":0\,"
+ rid":0\,"uid":null}
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-LOCATIONS:[{"DisplayName":"Microsoft Teams Meeting"\,"LocationA
+ nnotation":""\,"LocationUri":""\,"LocationStreet":""\,"LocationCity":""\,"
+ LocationState":""\,"LocationCountry":""\,"LocationPostalCode":""\,"Locatio
+ nFullAddress":""}]
+BEGIN:VALARM
+DESCRIPTION:REMINDER
+TRIGGER;RELATED=START:-PT15M
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+END:VCALENDAR
